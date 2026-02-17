@@ -75,6 +75,11 @@ export default function Home() {
               tech="25.09 - present"
             />
             <ProjectCard
+              title="IDS Rule 생성 시스템"
+              description="AI 기반 실시간 IDS Rule 생성 시스템 개발"
+              tech="25.03 - 25.12"
+            />
+            <ProjectCard
               title="Bleedingtooth Vulnerability analysis"
               description="리눅스 블루투스 제로클릭 RCE 취약점 분석 칼럼"
               tech="24.12 - 25.01"
