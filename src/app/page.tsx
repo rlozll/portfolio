@@ -78,21 +78,25 @@ export default function Home() {
               title="IDS Rule 생성 시스템"
               description="AI 기반 실시간 IDS Rule 생성 시스템 개발"
               tech="25.03 - 25.12"
+              link="https://pbl.swu.ac.kr/projects"
             />
             <ProjectCard
               title="Bleedingtooth Vulnerability analysis"
               description="리눅스 블루투스 제로클릭 RCE 취약점 분석 칼럼"
               tech="24.12 - 25.01"
+              link="https://log.swuswing.com/2025/08/24/3105_250824/"
             />
             <ProjectCard
               title="Android RAT analysis"
               description="RAT 모바일 악성코드 실습: 정적/동적 분석"
               tech="24.08 -24.10"
+              link="https://log.swuswing.com/2025/09/24/313201_250926/"
             />
             <ProjectCard
               title="Kernel UAF Research"
               description="Use-After-Free 취약점 연구"
               tech="24.04 - 24.05"
+              link="https://log.swuswing.com/2024/05/31/monthly_24_05/"
             />
             <ProjectCard
               title="악성파일 탐지 AI 시스템 설계"
