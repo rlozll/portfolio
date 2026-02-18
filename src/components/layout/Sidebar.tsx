@@ -14,7 +14,7 @@ const Wrapper = styled.aside`
     height: auto;
     position: relative;
     border-right: none;
-    padding: 90px 24px;
+    padding: 85px 24px;
   }
 `;
 

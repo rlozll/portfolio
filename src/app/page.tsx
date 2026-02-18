@@ -54,15 +54,17 @@ export default function Home() {
           <Bio>
             • automotive security (hardware hacking)<span style={{ display: 'block' }}>
             • firmware reversing, network analysis</span><span style={{ display: 'block' }}>
-            • AI(LLM)-based security automation and vulnerability detection</span><span style={{ display: 'block' }}>
-            • 서울여대 SWING 부회장(2025), Physical Lab(2026)...</span>
-          </Bio>
-          {/* <Name>Honors and Awards</Name>
+            • AI(LLM)-based security automation and vulnerability detection</span>
+          </Bio><br/><br/>
+          <Name>💡 ECA</Name>
           <Bio>
-            • 2026 Physical Lab<span style={{ display: 'block' }}>
-            • 2025 서울여대 SWING 부회장</span><span style={{ display: 'block' }}>
-            • 2025 Autohack 본선 진출</span>
-          </Bio> */}
+            • 2026~ Physical Lab 활동 중<span style={{ display: 'block' }}>
+            • 2025 서울여대 소학회 SWING 부회장</span><span style={{ display: 'block' }}>
+            • 2025 자동차해킹방어대회 Autohack 본선 진출 (10위)</span><span style={{ display: 'block' }}>
+            • 2025 SWING&ASC Seminar Speaker 'Automotive Security'</span><span style={{ display: 'block' }}>
+            • 2024 교내 Android 해커톤 장려상 수상</span><span style={{ display: 'block' }}>
+            • 2023 SWING Seminar Speaker 'Web Security'</span>
+          </Bio>
         </IntroSection>
 
         <ProjectsSection>
