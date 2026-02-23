@@ -58,7 +58,7 @@ export default function Home() {
           </Bio><br/><br/>
           <Name>💡Extra-Curricular Activities</Name>
           <Bio>
-            • 2026~ Physical Lab 활동 중<span style={{ display: 'block' }}>
+            • 2026~ 하드웨어 해킹팀 Physical Lab 소속<span style={{ display: 'block' }}>
             • 2025 서울여대 소학회 SWING 부회장</span><span style={{ display: 'block' }}>
             • 2025 자동차해킹방어대회 Autohack 본선 진출 (10위)</span><span style={{ display: 'block' }}>
             • 2025 SWING&ASC Seminar Speaker 'Automotive Security'</span><span style={{ display: 'block' }}>
